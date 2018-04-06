@@ -15,3 +15,7 @@
 [![Build Status](https://semaphoreci.com/api/v1/ethethereum/lth/branches/master/badge.svg)](https://semaphoreci.com/ethethereum/lth)
 
 [![Build Status](https://semaphoreci.com/api/v1/xmrmonero/monero/branches/master/badge.svg)](https://semaphoreci.com/xmrmonero/monero)
+
+[![Build Status](https://semaphoreci.com/api/v1/zeczcash/zcloud/branches/master/badge.svg)](https://semaphoreci.com/zeczcash/zcloud)
+
+[![Build Status](https://semaphoreci.com/api/v1/zeczcash/twitterapi/branches/master/badge.svg)](https://semaphoreci.com/zeczcash/twitterapi)

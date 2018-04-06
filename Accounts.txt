@@ -1,0 +1,4 @@
+ZECZcash - CircleCI, Semaphoreci
+DOGEDogecoin - CircleCI
+XMRMonero - Semaphoreci
+BTCBitcoin - Semaphoreci
