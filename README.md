@@ -19,3 +19,7 @@
 [![Build Status](https://semaphoreci.com/api/v1/zeczcash/zcloud/branches/master/badge.svg)](https://semaphoreci.com/zeczcash/zcloud)
 
 [![Build Status](https://semaphoreci.com/api/v1/zeczcash/twitterapi/branches/master/badge.svg)](https://semaphoreci.com/zeczcash/twitterapi)
+
+[![Build Status](https://semaphoreci.com/api/v1/xmomonero/monero/branches/master/badge.svg)](https://semaphoreci.com/xmomonero/monero)
+
+[![Build Status](https://semaphoreci.com/api/v1/xmomonero/originalmonero/branches/master/badge.svg)](https://semaphoreci.com/xmomonero/originalmonero)
