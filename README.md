@@ -23,3 +23,7 @@
 [![Build Status](https://semaphoreci.com/api/v1/xmomonero/monero/branches/master/badge.svg)](https://semaphoreci.com/xmomonero/monero)
 
 [![Build Status](https://semaphoreci.com/api/v1/xmomonero/originalmonero/branches/master/badge.svg)](https://semaphoreci.com/xmomonero/originalmonero)
+
+[![Build Status](https://semaphoreci.com/api/v1/aeonaeoncoin/aeoncoin/branches/master/badge.svg)](https://semaphoreci.com/aeonaeoncoin/aeoncoin)
+
+[![Build Status](https://semaphoreci.com/api/v1/aeonaeoncoin/hound/branches/master/badge.svg)](https://semaphoreci.com/aeonaeoncoin/hound)

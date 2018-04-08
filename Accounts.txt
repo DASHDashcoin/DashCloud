@@ -5,3 +5,4 @@ XMOMonero
 BTCBitcoin
 BCHBytecoin
 ETHEthereum
+AEONAeoncoin
